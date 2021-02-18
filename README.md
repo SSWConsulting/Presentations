@@ -13,7 +13,7 @@ Enjoy!
 
 Please use the following convention for storing your material:
 
-1. No spaces - use dashes between words (kebaberize-it) - see [https://rules.ssw.com.au/use-dashes-in-urls](https://rules.ssw.com.au/use-dashes-in-urls)
+1. No spaces - use dashes between words (kebab-case-it) - see [https://rules.ssw.com.au/use-dashes-in-urls](https://rules.ssw.com.au/use-dashes-in-urls)
 1. All lowercase
 1. Prefix with Year and Month
 1. Include the **title** of your presentation
